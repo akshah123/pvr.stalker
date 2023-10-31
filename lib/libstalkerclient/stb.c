@@ -34,7 +34,7 @@ bool sc_stb_get_profile_defaults(sc_list_t *list) {
             sc_param_create_string("ver",
                                    "ImageDescription: 0.2.16-250; "
                                            "ImageDate: 18 Mar 2013 19:56:53 GMT+0200; "
-                                           "PORTAL version: 4.9.9; "
+                                           "PORTAL version: 5.9.9; "
                                            "API Version: JS API version: 328; "
                                            "STB API version: 134; "
                                            "Player Engine version: 0x566",
